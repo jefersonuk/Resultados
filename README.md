@@ -4,7 +4,7 @@ Este é um projeto de website estático para uma **agência digital**, criado co
 
 ## 🚀 Acesse o site publicado
 
-🔗 [https://seu-usuario.github.io/agencia-digital/](https://seu-usuario.github.io/agencia-digital/)
+🔗 [https://jefersonuk.github.io/resultados/]
 
 > ⚠️ Substitua `seu-usuario` pela sua conta GitHub!
 
